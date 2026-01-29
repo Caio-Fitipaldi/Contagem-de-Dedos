@@ -12,3 +12,4 @@
 
     [X] Documentação do Projeto e primeiro commit
     [X] Criação de Variáveis Globais e funções iniciais
+    [X] Segmentação da Bounding Box
